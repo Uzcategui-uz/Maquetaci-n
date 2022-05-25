@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 20px;
+}
+
+header {
+    border: solid 3px rgb(68, 110, 5);
+    height: 100px;
+}
+
+nav {
+    border: solid 3px rgb(142, 0, 0);
+    height: 50px;
+}
+
+article {
+    border: solid 3px rgb(21, 0, 255);
+}
+
+article header {
+    border: solid 3px rgb(68, 110, 5);
+    margin-top: 200px;
+}
+
+section {
+    border: solid 3px rgb(68, 5, 110);
+}
+
+footer {
+    border: solid 3px rgb(111, 134, 77);
+}
+div{
+display: flex;
+}
+div div {
+    border: solid 3px rgb(139, 83, 59);
+}
+
+aside {
+    border: solid 3px rgb(73, 145, 197);
+    height: 300px;
+}
